@@ -10,9 +10,14 @@
     <div>
     <h1>Menu de opciones</h1>
     <h2>  
-    <a href="/Video/Create">Agregar Video</a>  
+    <a href="/Video/Create">Agregar Video</a>
+    <br />
     </h2>
-
+    <a href="/Video/Delete">Eliminar video</a>
+    <br />
+    <a href="/Video/Index">Ver videos</a>
+    <br />
+    <a href="/Video/Edit">Eliminar videos</a>
     </div>
 </body>
 </html>
